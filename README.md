@@ -29,7 +29,7 @@ This repository hosts the backend API for a food ordering application, built wit
 Follow these steps to get the API running on your local machine.
 
 ### Prerequisites
-#### Node.js (v14 or higher recommended)
+#### Node.js (v20 or higher recommended)
 
 #### npm (Node Package Manager)
 
